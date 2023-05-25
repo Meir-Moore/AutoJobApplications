@@ -16,8 +16,8 @@ def run(playwright):
     page.wait_for_load_state()
 
     # Fill in the email and password fields with your credentials
-    page.fill('#email', 'meir.moore100@gmail.com')
-    page.fill('#password', 'Angelus60')
+    page.fill('#email', 'email')
+    page.fill('#password', 'password')
 
     # Click the login button
     page.click('input[type="submit"][value="התחברות"]')
