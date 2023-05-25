@@ -1,3 +1,9 @@
+## Disclaimer
+
+This project is for educational purposes only. It serves as an example or demonstration of automated job applications using Python and Playwright. The use of this project for any other purposes is solely at your own risk. The author and contributors are not responsible for any consequences or liabilities arising from the use of this project.
+
+
+
 # AutoJobApplications
 Python 3.x
 
