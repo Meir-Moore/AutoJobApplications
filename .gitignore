@@ -1,6 +1,11 @@
 # created by virtualenv automatically
 # Virtual environment
 venv/
+.idea/
+Lib/
+Scripts/
+_pycache_/
+include/
 
 # Local configuration files
 .env
