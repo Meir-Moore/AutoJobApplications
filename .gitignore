@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+# Virtual environment
+venv/
+
+# Local configuration files
+.env
