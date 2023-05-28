@@ -5,8 +5,6 @@ This project is for educational purposes only. It serves as an example or demons
 
 
 # AutoJobApplications
-Python 3.x
-
 
 # Installation
 To run the code, you'll need to install Playwright and its dependencies. Follow the steps below to set up your environment:
