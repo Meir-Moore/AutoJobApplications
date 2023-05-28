@@ -5,6 +5,7 @@ This project is for educational purposes only. It serves as an example or demons
 
 
 # AutoJobApplications
+Automated job application script using Python and Playwright for JobMaster website.
 
 # Installation
 To run the code, you'll need to install Playwright and its dependencies. Follow the steps below to set up your environment:
