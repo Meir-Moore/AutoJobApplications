@@ -20,10 +20,10 @@ Create a new virtual environment (optional but recommended):
 
 # Activate the virtual environment:
 For Windows:
-`$ ./myenv/Scripts/activate
+`$ ./myenv/Scripts/activate`
 
 For Linux:
-`$ source myenv/bin/activate
+`$ source myenv/bin/activate`
 
 # Install Playwright and its dependencies:
 `$ pip install playwright`
